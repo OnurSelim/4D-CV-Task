@@ -2,6 +2,8 @@
 
 This is my solution to the Pose Estimation task. I have used MATLAB to solve the problem.
 
+I have used the 2D-3D correspondences to estimate the intrinsic camera matrix. The details are presented in the live script.
+
 To see the steps, one can go through the live script "StructureFromMotionFromMultipleViewsExample.mlx".
 
 Onur Selim KILIÇ
